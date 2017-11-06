@@ -1,9 +1,9 @@
 # SecureCRT-Cisco-Highlighting
 
-Add to
+Add to<br>
 .../SecureCRT/Config/Keywords
 
 To enable:
-Options -> Global Options
-Default Session -> Edit Default Session
-Terminal -> Appearance -> Highlight keywords
+Options -> Global Options<br>
+Default Session -> Edit Default Session<br>
+Terminal -> Appearance -> Highlight keywords<br>
