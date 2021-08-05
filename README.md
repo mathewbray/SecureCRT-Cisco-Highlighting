@@ -1,7 +1,7 @@
 # SecureCRT-Cisco-Highlighting
 
 Add to<br>
-(SecureCRT Location)/Config/Keywords
+(SecureCRT Folder)/Config/Keywords
 
 To enable:
 Options -> Global Options<br>
